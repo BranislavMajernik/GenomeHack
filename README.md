@@ -2,7 +2,7 @@
 
  ![](public/genbank.png)
 
-Ak chceme pracovať biologickými sekvenčnými dátami, typicky génovými sekvenciami DNA, RNA, alebo bielkoviny, je potrebné často porovnávať jednu sekvenciu z inou, resp. ďalšími pre potreby skúmania ich evolúcie,
+Ak chceme s pracovať biologickými sekvenčnými dátami, typicky génovými sekvenciami DNA a RNA, alebo bielkovinami, je nutné často porovnávať jednu sekvenciu s inou, resp. ďalšími pre potreby skúmania ich evolúcie,
 poťažmo mutácií.
 Tu je dobré použiť párové zarovnávanie a zmyslom nasledovného python kódu je poskytnúť relevatné programové prostriedky.
 
